@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @brookecom
+- 👀 I’m interested in Data Science, Data Analytics, AI, and Machine Learning
+- 🌱 I’m currently working on learning the basics of data science
+- 📫 How to reach me: https://www.linkedin.com/in/brookecom/
